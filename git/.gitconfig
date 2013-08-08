@@ -1,0 +1,7 @@
+[color]
+    ui = true
+[user]
+    name = Kiah Han
+    email = kiahhan@gmail.com
+[mergetool]
+    keepBackup = true
