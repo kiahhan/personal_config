@@ -53,20 +53,20 @@ Put my personal configuration into this repository
     By typing 'agree' you are agreeing to the terms of the software license agreements. Type 'print' to print them or anything else to cancel, [agree, print, cancel] agree
 
     You can view the license agreements in Xcode's About Box, or at /Applications/Xcode.app/Contents/Resources/English.lproj/License.rtf
-
-		Kiah@Feis-MacBook-Pro ~/.oh-my-zsh$ upgrade_oh_my_zsh                   master
-		Upgrading Oh My Zsh
-		From https://github.com/kiahhan/oh-my-zsh
-		 * branch            master     -> FETCH_HEAD
-		Current branch master is up to date.
-		         __                                     __
-		  ____  / /_     ____ ___  __  __   ____  _____/ /_
-		 / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \
-		/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / /
-		\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/
-		                        /____/
-		Hooray! Oh My Zsh has been updated and/or is at the current version.
-		To keep up on the latest, be sure to follow Oh My Zsh on twitter: http://twitter.com/ohmyzsh
-		Kiah@MacBook-Pro ~/.oh-my-zsh$                                                                                           master
-		Kiah@MacBook-Pro ~/.oh-my-zsh$                                                           1 ↵ master
+    
+    Kiah@MacBook-Pro ~/.oh-my-zsh$ upgrade_oh_my_zsh                   master
+    Upgrading Oh My Zsh
+    From https://github.com/kiahhan/oh-my-zsh
+    * branch            master     -> FETCH_HEAD
+    Current branch master is up to date.
+	         __                                     __
+	  ____  / /_     ____ ___  __  __   ____  _____/ /_
+	 / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \
+	/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / /
+	\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/
+	                        /____/
+    Hooray! Oh My Zsh has been updated and/or is at the current version.
+    To keep up on the latest, be sure to follow Oh My Zsh on twitter: http://twitter.com/ohmyzsh
+    Kiah@MacBook-Pro ~/.oh-my-zsh$                                                                                           master
+    Kiah@MacBook-Pro ~/.oh-my-zsh$                                                       1 ↵ master
 
