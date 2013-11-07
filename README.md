@@ -70,3 +70,19 @@ Put my personal configuration into this repository
     Kiah@MacBook-Pro ~/.oh-my-zsh$                                                                                           master
     Kiah@MacBook-Pro ~/.oh-my-zsh$                                                       1 ↵ master
 
+
+
+
+###How do I upgrade oh my zsh, when I got "Can't update using upgrade_oh_my_zsh" in Ubuntu
+
+Whenever i try to use 'upgrade_oh_my_zsh' the following error occures :
+
+	kiah@kiah-VirtualBox ~$ upgrade_oh_my_zsh                                      
+	Upgrading Oh My Zsh
+	Cannot pull with rebase: You have unstaged changes.
+	Please commit or stash them.
+	There was an error updating. Try again later?
+
+I think the problem can be solved by deleting the option "--rebase" in tools/upgrade.sh. （～/.oh-my-zsh/tools/upgrade.sh ）
+
+	git pull origin master
