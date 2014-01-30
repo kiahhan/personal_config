@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Deep Blue See",
+		"Format SQL",
+		"GBK Encoding Support",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Nodejs",
+		"Package Control"
+	],
+	"repositories":
+	[
+		"https://github.com/jdc0589/JsFormat "
+	]
+}
